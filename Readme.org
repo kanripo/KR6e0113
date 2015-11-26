@@ -1,12 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:19.815200
-#+TITLE: 海印三昧論
-#+PROPERTY: CBETA_ID T45n1889
-#+PROPERTY: ID KR6e0113
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1889
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0113_T_000-0773c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 海印三昧論 / CBETA
+#+DATE: 2015-11-26 14:18:54.470403
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
 
-[[file:KR6e0113_001.txt::001-0773c24][海印三昧論序]]
+* 目次
+* [[file:KR6e0113_001.txt::001-0773c24][海印三昧論序]]
+* 卷
+** [[file:KR6e0113_001.txt][海印三昧論 1]]
